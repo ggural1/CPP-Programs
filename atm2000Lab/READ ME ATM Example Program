@@ -1,0 +1,3 @@
+This folder contains the necessary files to run the ATM Example Program
+There are header (.h) files and implementatation (.cpp) files. 
+To compile: g++ atm2000.cpp BankAccount.cpp CheckingAccount.cpp SavingAccount.cpp
